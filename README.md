@@ -1,9 +1,8 @@
 # **Wie ben ik?**
-  Ik ben rowan, ik ben 16 jaar en ik vind programeren leuk.
+  Ik ben rowan, ik ben 17 jaar en ik vind programeren leuk.
 ## **Mijn hobbies**
-  - MMA, Kickboxing en fitness
-  - tekenen, 3d modellen maken
-  - af en toe games
+  - MMA en fitness
+  - tekenen, videogames
 ## **wat zijn mijn doelen?**
   - ik wil verder studeren in de ICT sector.
   - ik wil mensen helpen.
